@@ -1,4 +1,3 @@
-import tables
 import view
 import event
 import system_logger
